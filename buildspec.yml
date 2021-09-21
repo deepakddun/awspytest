@@ -9,3 +9,6 @@ phases:
   build:
     commands:
       - python -m pytest -v
+cache:
+  paths:
+    - '/root/.cache/**/*'
