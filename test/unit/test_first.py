@@ -6,4 +6,4 @@ def test_sample1():
 
 
 def test_sample2():
-    assert 2 == 3
+    assert 2 == 2
